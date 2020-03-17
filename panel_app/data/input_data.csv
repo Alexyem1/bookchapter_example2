@@ -1,0 +1,364 @@
+AlternateID	Annotation	wt_0min	wt_25min	dhog_0min	dhog_25min	dhoga_0min	dhoga_25min
+MGG_00019	galactose-proton symport	51.0	29.7	3.7	4.7	0.0	0.0
+MGG_00040	high-affinity glucose transporter ght2 [Magnaporthe oryzae 70-15]	28.4	711.4	12.0	16.1	32.5	41.9
+MGG_00063	glycogen debranching enzyme	62.7	170.7	17.5	21.7	24.9	37.4
+MGG_00081	cell wall	119.6	523.4	33.1	28.4	67.1	51.9
+MGG_00087	Ribosome biogenesis SSF1	9.8	6.2	56.1	66.2	30.3	30.1
+MGG_00097	reductase [Fusarium fujikuroi]	163.7	1456.2	13.8	21.7	11.9	48.3
+MGG_00099	phosphatidyl synthase	602.8	3653.6	31.3	91.7	56.3	329.8
+MGG_00119	hypothetical protein MGG_00119 [Magnaporthe oryzae 70-15]	61.7	129.9	25.7	24.6	8.7	4.6
+MGG_00126	kelch domain-containing	3.9	105.2	0.0	0.0	1.1	0.0
+MGG_00127	saccharopine dehydrogenase	8.8	54.4	3.7	3.8	4.3	2.7
+MGG_00128	sporulation RMD1	20.6	105.2	8.3	10.4	8.7	12.8
+MGG_00153	sphingolipid long chain base-responsive LSP1	80.4	274.7	37.7	29.3	33.6	28.2
+MGG_00166	5-azacytidine resistance azr1	25.5	103.9	13.8	13.2	22.7	16.4
+MGG_00194	rds1 [Colletotrichum gloeosporioides Nara gc5]	47.0	108.9	4.6	1.9	8.7	0.9
+MGG_00211	1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase delta-3 [Magnaporthe oryzae 70-15]	15.7	159.6	12.0	15.1	7.6	17.3
+MGG_00220	NADP-dependent alcohol dehydrogenase 6 [Magnaporthe oryzae 70-15]	129.4	87.8	28.5	27.4	43.3	25.5
+MGG_00225	hypothetical protein MGG_00225 [Magnaporthe oryzae 70-15]	2.9	44.5	0.0	0.9	0.0	0.0
+MGG_00243	hypothetical protein MGG_00243 [Magnaporthe oryzae 70-15]	19.6	21.0	88.3	65.2	453.6	187.7
+MGG_00264	inositol phospholipid synthesis Scs3p	25.5	129.9	12.0	8.5	18.4	16.4
+MGG_00273	dead deah box helicase [Neofusicoccum parvum UCRNP2]	59.8	284.6	6.4	2.8	10.8	5.5
+MGG_00275	MFS transporter [Magnaporthe oryzae 70-15]	13.7	54.4	1.8	0.9	3.2	1.8
+MGG_00283	tat pathway signal sequence [Colletotrichum graminicola ]	311.7	147.2	23.9	10.4	77.9	22.8
+MGG_00291	ankyrin 1	23.5	11.1	0.9	0.0	2.2	1.8
+MGG_00302	bactericidal permeability-increasing [Phaeoacremonium minimum UCRPA7]	6.9	40.8	0.0	0.0	2.2	0.9
+MGG_00342	BZIP-type transcription factor	57.8	122.5	24.8	29.3	37.9	24.6
+MGG_00343	1-acyl-sn-glycerol-3-phosphate acyltransferase	22.5	16.1	2.8	1.9	3.2	1.8
+MGG_00399	duf833 domain-containing [Phaeoacremonium minimum UCRPA7]	44.1	18.6	8.3	3.8	10.8	6.4
+MGG_00438	HVA22 family TB2 DP1	59.8	113.8	29.4	33.1	20.6	29.2
+MGG_00443	hypothetical protein MGG_00443 [Magnaporthe oryzae 70-15]	549.8	2792.4	37.7	31.2	267.4	92.9
+MGG_00444	rna recognition domain-containing	203.9	987.3	57.0	57.7	127.7	92.0
+MGG_00451	hypothetical protein MGG_00451 [Magnaporthe oryzae 70-15]	35.3	115.1	14.7	18.9	21.7	20.0
+MGG_00455	class E vacuolar -sorting machinery HSE1	46.1	146.0	21.2	29.3	17.3	37.4
+MGG_00473	rRNA-processing FCF2	19.6	50.7	75.4	94.5	160.2	125.7
+MGG_00482	60S ribosome subunit biogenesis NIP7	13.7	14.8	57.0	52.0	66.0	47.4
+MGG_00503	diacylglycerol O-acyltransferase [Magnaporthe oryzae 70-15]	22.5	70.5	8.3	8.5	7.6	9.1
+MGG_00528	sterol esterase	7.8	42.1	3.7	1.9	2.2	2.7
+MGG_00556	histone transcription regulator	19.6	13.6	3.7	3.8	3.2	1.8
+MGG_00560	ATP-dependent RNA helicase mak5	3.9	2.5	27.6	18.9	16.2	10.0
+MGG_00634	nitrite reductase	139.2	53.2	14.7	14.2	10.8	10.9
+MGG_00669	hypothetical protein MGG_00669 [Magnaporthe oryzae 70-15]	1.0	0.0	2.8	7.6	111.5	173.1
+MGG_00684	hypothetical protein MGG_00684 [Magnaporthe oryzae 70-15]	101.0	313.0	13.8	12.3	36.8	15.5
+MGG_00703	MAS3 [Magnaporthe oryzae 70-15]	45.1	29.7	366.0	252.4	365.9	359.9
+MGG_00715	glucose-repressible [Magnaporthe oryzae 70-15]	1621.1	14566.0	23.9	34.0	131.0	67.4
+MGG_00733	hypothetical protein MGG_00733 [Magnaporthe oryzae 70-15]	2.0	108.9	0.9	5.7	0.0	0.9
+MGG_00740	lysosomal cobalamin transporter [Magnaporthe oryzae 70-15]	17.6	117.5	10.1	11.3	14.1	15.5
+MGG_00771	5-oxoprolinase (atp-hydrolysing)	816.4	440.5	41.4	74.7	94.2	97.5
+MGG_00786	non-classical export	11.8	111.4	3.7	4.7	11.9	9.1
+MGG_00802	integral membrane DUF92	24.5	146.0	6.4	11.3	14.1	21.9
+MGG_00837	P-hydroxylaminobenzoate partial	11.8	52.0	7.4	3.8	3.2	2.7
+MGG_00842	Translation machinery-associated 16	5.9	3.7	33.1	26.5	95.3	28.2
+MGG_00856	cp2 transcription factor	31.4	127.4	12.9	13.2	30.3	23.7
+MGG_00860	TSA family	156.8	456.5	90.1	118.2	83.4	103.9
+MGG_00871	phosphatidylinositol transfer CSR1 [Magnaporthe oryzae 70-15]	38.2	87.8	20.2	18.9	19.5	28.2
+MGG_00933	ion channel	2.0	32.2	1.8	0.9	2.2	0.9
+MGG_00962	tubulin gamma chain [Eutypa lata UCREL1]	4.9	185.6	0.9	0.9	1.1	0.0
+MGG_00977	U3 small nucleolar ribonucleo IMP4	19.6	21.0	47.8	66.2	65.0	59.2
+MGG_00985	Nucleotide- alpha-beta plait	2.0	1.2	13.8	20.8	7.6	10.9
+MGG_00992	gas1 [Eutypa lata UCREL1]	63.7	55.7	250.1	257.1	411.4	348.9
+MGG_01004	f-box domain containing	103.9	308.1	18.4	13.2	34.6	18.2
+MGG_01045	arrestin domain-containing partial	236.2	219.0	64.4	38.8	139.6	60.1
+MGG_01047	PH domain-containing	14.7	134.9	5.5	7.6	8.7	12.8
+MGG_01061	coproporphyrinogen III oxidase	2560.1	1518.1	821.2	426.3	889.9	698.8
+MGG_01069	Mitochondrial carrier PET8 [Cordyceps militaris CM01]	176.4	1503.2	7.4	10.4	13.0	12.8
+MGG_01078	ribosome biogenesis BRX1	16.7	12.4	45.1	69.0	71.4	56.5
+MGG_01094	meiotically up-regulated [Phaeoacremonium minimum UCRPA7]	11.8	115.1	3.7	1.9	2.2	0.9
+MGG_01123	Ribosomal RNA-processing 12	4.9	6.2	27.6	39.7	19.5	22.8
+MGG_01127	C2H2 transcription factor [Colletotrichum gloeosporioides Nara gc5]	47.0	210.3	10.1	11.3	41.1	15.5
+MGG_01129	ATPase family AAA domain-containing 1 [Gaeumannomyces graminis tritici R3-111a-1]	19.6	100.2	5.5	10.4	5.4	10.9
+MGG_01166	[Neurospora crassa]	8.8	19.8	1.8	1.9	1.1	2.7
+MGG_01183	pescadillo [Magnaporthe oryzae 70-15]	6.9	4.9	43.2	46.3	19.5	20.0
+MGG_01208	bap31 domain-containing [Colletotrichum gloeosporioides Nara gc5]	174.5	763.4	41.4	51.0	111.5	80.2
+MGG_01210	mitochondrial hypoxia responsive domain-containing [Magnaporthe oryzae 70-15]	663.5	545.6	238.2	83.2	302.0	124.8
+MGG_01224	WD repeat-containing [Magnaporthe oryzae 70-15]	4.9	4.9	31.3	37.8	19.5	25.5
+MGG_01230	succinate semialdehyde dehydrogenase	347.9	689.1	63.5	76.6	40.1	126.6
+MGG_01261	trehalase	100.0	126.2	12.0	5.7	29.2	6.4
+MGG_01268	nuclear localization sequence binding [Magnaporthe oryzae 70-15]	44.1	27.2	150.8	110.6	229.5	94.8
+MGG_01292	nucleolar NOP2 [Magnaporthe oryzae 70-15]	9.8	8.7	46.9	72.8	28.1	28.2
+MGG_01297	flavin-nucleotide-binding [Fusarium fujikuroi]	23.5	75.5	4.6	3.8	0.0	0.9
+MGG_01353	cytochrome p450 monooxygenase [Eutypa lata UCREL1]	48.0	59.4	18.4	18.9	5.4	7.3
+MGG_01370	vacuolar sorting-associated 70 [Magnaporthe oryzae 70-15]	22.5	58.2	1.8	1.9	2.2	2.7
+MGG_01373	arabinose-proton symporter [Magnaporthe oryzae 70-15]	17.6	288.3	3.7	6.6	8.7	16.4
+MGG_01376	#ИМЯ?	2.9	27.2	0.0	0.9	0.0	1.8
+MGG_01428	ring-like domain-containing [Phaeoacremonium minimum UCRPA7]	7.8	69.3	5.5	2.8	5.4	2.7
+MGG_01456	spg20 [Phaeoacremonium minimum UCRPA7]	51.0	253.6	27.6	28.4	26.0	31.9
+MGG_01460	holo-acyl-carrier- synthase	4.9	37.1	2.8	0.9	4.3	1.8
+MGG_01461	ATP synthase F0	648.8	1010.8	103.0	63.3	273.9	107.5
+MGG_01463	phosphate metabolism 7 [Magnaporthe oryzae 70-15]	18.6	238.8	11.0	4.7	1.1	0.9
+MGG_01475	female sexual development-1 variant 2 [Neurospora crassa OR74A]	17.6	17.3	3.7	4.7	2.2	2.7
+MGG_01480	mechanosensitive ion channel [Grosmannia clavigera kw1407]	26.5	82.9	12.0	9.5	20.6	13.7
+MGG_01501	dna-binding hgh1 [Phaeoacremonium minimum UCRPA7]	19.6	16.1	48.7	65.2	128.8	82.0
+MGG_01523	cytosolic phospholipase A2 zeta	14.7	245.0	10.1	9.5	5.4	7.3
+MGG_01532	hypothetical protein MGG_01532 [Magnaporthe oryzae 70-15]	0.0	0.0	20.2	59.6	3.2	10.9
+MGG_01560	hypothetical protein MGG_01560 [Magnaporthe oryzae 70-15]	11.8	65.6	4.6	3.8	4.3	3.6
+MGG_01561	nucleolar GTP-binding 2	8.8	7.4	47.8	40.6	29.2	20.0
+MGG_01572	DNA-directed RNA polymerase I subunit RPA2	7.8	3.7	31.3	37.8	17.3	19.1
+MGG_01585	MBR family	136.2	228.9	29.4	36.9	48.7	45.6
+MGG_01596	CAMK RAD53 kinase [Magnaporthe oryzae 70-15]	98.0	75.5	29.4	32.1	43.3	31.0
+MGG_01616	hypothetical protein MGG_01616 [Magnaporthe oryzae 70-15]	24.5	35.9	11.0	5.7	5.4	3.6
+MGG_01662	4-aminobutyrate aminotransferase	231.3	271.0	80.0	66.2	53.0	110.2
+MGG_01679	DJ-1 family	14.7	179.4	7.4	15.1	11.9	17.3
+MGG_01728	methylenetetrahydrofolate reductase 1	35.3	29.7	64.4	78.5	87.7	110.2
+MGG_01752	hypothetical protein MGG_01752 [Magnaporthe oryzae 70-15]	51.0	49.5	18.4	20.8	9.7	11.8
+MGG_01764	Polysaccharide lyase [Penicillium expansum]	23.5	22.3	6.4	5.7	4.3	2.7
+MGG_01765	increased sodium tolerance 1 [Eutypa lata UCREL1]	65.7	56.9	24.8	16.1	26.0	15.5
+MGG_01769	plasma membrane channel	5.9	55.7	1.8	1.9	4.3	2.7
+MGG_01770	calcineurin-like phosphoesterase	12.7	68.0	3.7	4.7	6.5	6.4
+MGG_01783	pyrimidine nucleotidase [Grosmannia clavigera kw1407]	64.7	52.0	16.6	16.1	15.2	8.2
+MGG_01806	nicotinamide n-methyltransferase	6.9	69.3	0.9	5.7	2.2	3.6
+MGG_01822	CMGC MAPK P38 kinase [Fusarium verticillioides 7600]	174.5	1294.1	14.7	17.0	16.2	10.9
+MGG_01825	[Neurospora crassa]	26.5	95.3	4.6	8.5	14.1	21.0
+MGG_01862	ZIP Zinc transporter	2.9	2.5	14.7	30.3	13.0	44.6
+MGG_01935	NAD(P)H-dependent oxidoreductase [Fusarium fujikuroi]	17.6	167.0	1.8	0.9	11.9	1.8
+MGG_01941	FAD binding domain-containing [Magnaporthe oryzae 70-15]	0.0	0.0	33.1	20.8	15.2	13.7
+MGG_02075	Sodium:neurotransmitter symporter family	5.9	165.8	1.8	5.7	2.2	9.1
+MGG_02099	C2 domain-containing	34.3	148.5	17.5	22.7	13.0	21.9
+MGG_02103	maltose O-acetyltransferase [Magnaporthe oryzae 70-15]	53.9	201.7	30.3	33.1	45.5	30.1
+MGG_02105	7alpha-cephem-methoxylase p8 chain related	24.5	42.1	12.9	9.5	8.7	5.5
+MGG_02109	hypothetical protein MGG_02109 [Magnaporthe oryzae 70-15]	216.6	1064.0	1.8	5.7	0.0	0.0
+MGG_02117	bzip transcription factor [Phaeoacremonium minimum UCRPA7]	9.8	150.9	12.9	10.4	6.5	7.3
+MGG_02127	alcohol oxidase [Fusarium fujikuroi]	19.6	12.4	3.7	3.8	0.0	0.9
+MGG_02224	succinate-semialdehyde dehydrogenase [Verticillium dahliae ]	142.1	128.7	0.0	0.9	0.0	0.0
+MGG_02257	hypothetical protein MGG_02257 [Magnaporthe oryzae 70-15]	12.7	691.6	0.9	0.9	1.1	1.8
+MGG_02259	[Nectria haematococca mpVI 77-13-4]	6.9	49.5	2.8	4.7	2.2	3.6
+MGG_02275	Peptidase S28 [Penicillium expansum]	29.4	22.3	1.8	0.9	0.0	0.0
+MGG_02345	hypothetical protein MGG_02345 [Magnaporthe oryzae 70-15]	14.7	11.1	0.9	0.9	0.0	0.0
+MGG_02346	sugar [Aspergillus flavus NRRL3357]	31.4	42.1	9.2	5.7	0.0	0.0
+MGG_02347	secreted nis1	26.5	80.4	0.9	0.9	5.4	2.7
+MGG_02368	kelch domain-containing	55.9	39.6	333.8	170.2	115.8	97.5
+MGG_02378	Glutamate decarboxylase	200.9	199.2	46.0	35.9	35.7	34.6
+MGG_02460	ribosome biogenesis YTM1 [Magnaporthe oryzae 70-15]	9.8	7.4	54.3	56.7	53.0	34.6
+MGG_02519	hypothetical protein MGG_02519 [Magnaporthe oryzae 70-15]	5.9	2.5	28.5	28.4	18.4	28.2
+MGG_02533	hypothetical protein MGG_02533 [Magnaporthe oryzae 70-15]	19.6	61.9	8.3	11.3	6.5	14.6
+MGG_02538	glutamine synthetase	58.8	190.5	23.9	20.8	16.2	20.0
+MGG_02581	hypothetical protein MGG_02581 [Magnaporthe oryzae 70-15]	16.7	303.1	27.6	27.4	2.2	2.7
+MGG_02602	hypothetical protein MGG_02602 [Magnaporthe oryzae 70-15]	75.5	30.9	244.6	328.0	88.8	259.7
+MGG_02622	ab-hydrolase associated lipase region	43.1	305.6	23.9	42.5	14.1	31.9
+MGG_02624	transaldolase	830.2	2156.5	646.5	603.1	425.4	427.3
+MGG_02638	hypothetical protein MGG_02638 [Magnaporthe oryzae 70-15]	95.1	43.3	8.3	3.8	30.3	3.6
+MGG_02641	Outer spore wall RRT8	13.7	115.1	0.9	0.9	1.1	2.7
+MGG_02646	hypothetical protein MGG_02646 [Magnaporthe oryzae 70-15]	10.8	12.4	1.8	0.9	1.1	0.0
+MGG_02653	6-phosphofructokinase	220.5	340.2	77.2	79.4	99.6	135.8
+MGG_02704	[Trichoderma reesei QM6a]	23.5	44.5	4.6	4.7	4.3	4.6
+MGG_02709	DUF1348-domain-containing partial [Metarhizium brunneum ARSEF 3297]	639.0	592.6	193.1	180.6	32.5	24.6
+MGG_02803	[Chaetomium globosum CBS ]	142.1	2274.0	34.0	38.8	50.9	70.2
+MGG_02804	DNA excision repair ERCC-4	10.8	102.7	8.3	8.5	7.6	11.8
+MGG_02805	hypothetical protein MGG_02805 [Magnaporthe oryzae 70-15]	279.3	2547.5	5.5	9.5	9.7	0.0
+MGG_02817	glutamate decarboxylase	8.8	60.6	1.8	1.9	0.0	0.9
+MGG_02818	isoamyl alcohol oxidase [Magnaporthe oryzae 70-15]	68.6	141.0	6.4	4.7	7.6	10.0
+MGG_02851	ribosomal s17 [Neofusicoccum parvum UCRNP2]	190.1	152.2	881.9	953.8	1130.2	893.8
+MGG_02881	deoxyribose-phosphate aldolase	4.9	2.5	21.2	22.7	26.0	13.7
+MGG_02886	S-(hydroxymethyl)glutathione dehydrogenase [Magnaporthe oryzae 70-15]	5.9	262.3	0.9	0.9	2.2	0.9
+MGG_02893	hypothetical protein MGG_02893 [Magnaporthe oryzae 70-15]	171.5	1634.4	13.8	28.4	30.3	40.1
+MGG_02977	hypothetical protein MGG_02977 [Magnaporthe oryzae 70-15]	30.4	13.6	5.5	3.8	6.5	5.5
+MGG_03038	nb-arc and tpr domain	37.2	23.5	8.3	5.7	2.2	1.8
+MGG_03041	glucokinase [Magnaporthe oryzae 70-15]	162.7	403.3	98.4	100.2	107.2	81.1
+MGG_03042	hypothetical protein MGG_03042 [Magnaporthe oryzae 70-15]	13.7	28.5	2.8	2.8	4.3	2.7
+MGG_03090	[Trichoderma reesei QM6a]	20.6	11.1	40.5	52.0	56.3	59.2
+MGG_03131	DDHD domain-containing	7.8	43.3	2.8	2.8	4.3	4.6
+MGG_03186	1,4-alpha-glucan-branching enzyme	223.5	548.1	63.5	70.0	145.1	144.0
+MGG_03207	kinase domain-containing	11.8	30.9	3.7	1.9	5.4	1.8
+MGG_03208	glycolipid-anchored surface 5 [Magnaporthe oryzae 70-15]	31.4	42.1	2.8	0.9	3.2	0.9
+MGG_03210	U3 small nucleolar RNA associated	6.9	9.9	35.9	45.4	43.3	29.2
+MGG_03258	molybdopterin biosynthesis moeA [Magnaporthe oryzae 70-15]	19.6	39.6	0.9	0.9	2.2	0.9
+MGG_03259	hypothetical protein MGG_03259 [Magnaporthe oryzae 70-15]	5.9	39.6	1.8	0.9	0.0	0.0
+MGG_03270	U3 small nucleolar RNA-associated 22	2.9	2.5	18.4	23.6	21.7	12.8
+MGG_03326	hypothetical protein MGG_03326 [Magnaporthe oryzae 70-15]	970.3	754.7	4058.3	3176.3	3426.3	2945.5
+MGG_03327	hypothetical protein MGG_03327 [Magnaporthe oryzae 70-15]	50.0	32.2	8.3	5.7	5.4	5.5
+MGG_03336	LEA domain-containing [Magnaporthe oryzae 70-15]	185.2	2991.6	6.4	11.3	11.9	11.8
+MGG_03341	plastidic glucose transporter 4	2.0	300.6	0.9	1.9	0.0	0.9
+MGG_03349	membrane transporter [Aureobasidium namibiae CBS ]	8.8	223.9	0.9	0.9	3.2	4.6
+MGG_03360	carboxylic acid transporter	163.7	90.3	30.3	46.3	5.4	4.6
+MGG_03393	TAM domain methyltransferase	11.8	8.7	43.2	38.8	26.0	35.5
+MGG_03404	hypothetical protein MGG_03404 [Magnaporthe oryzae 70-15]	165.6	70.5	25.7	7.6	21.7	6.4
+MGG_03464	endo-1,4-beta-xylanase partial [Metarhizium majus ARSEF 297]	191.1	207.9	35.9	25.5	82.3	31.0
+MGG_03469	Metallo-hydrolase oxidoreductase	16.7	61.9	0.0	0.0	0.0	0.0
+MGG_03501	DUF1264 domain	12.7	56.9	0.9	0.9	1.1	0.0
+MGG_03504	gas1 [Dactylellina haptotyla CBS ]	109.8	107.6	840.5	768.6	2171.6	1703.7
+MGG_03508	Cel3e [Magnaporthe oryzae 70-15]	70.6	160.8	9.2	16.1	1.1	5.5
+MGG_03536	SDS23 [Gaeumannomyces graminis tritici R3-111a-1]	65.7	121.2	30.3	42.5	23.8	32.8
+MGG_03542	metallopeptidase [Magnaporthe oryzae 70-15]	30.4	117.5	10.1	9.5	13.0	14.6
+MGG_03545	hypothetical protein MGG_03545 [Magnaporthe oryzae 70-15]	1.0	1.2	7.4	12.3	11.9	16.4
+MGG_03550	CDP-diacylglycerol-serine O-phosphatidyltransferase	12.7	152.2	12.0	13.2	7.6	10.0
+MGG_03558	PH domain-containing	26.5	146.0	8.3	5.7	7.6	9.1
+MGG_03560	lecithin:cholesterol acyltransferase	8.8	64.3	5.5	8.5	4.3	6.4
+MGG_03582	RING-14 [Magnaporthe oryzae 70-15]	17.6	89.1	10.1	8.5	6.5	10.9
+MGG_03593	hypothetical protein MGG_03593 [Magnaporthe oryzae 70-15]	889.0	664.4	3373.2	3291.7	2303.7	2582.0
+MGG_03594	hypothetical protein MGG_03594 [Magnaporthe oryzae 70-15]	25.5	43.3	9.2	11.3	11.9	11.8
+MGG_03639	arginyl-tRNA synthetase	7.8	58.2	1.8	1.9	5.4	3.6
+MGG_03654	Acyl- N-acyltransferase [Penicillium expansum]	135.3	163.3	76.3	71.8	31.4	36.4
+MGG_03675	hypothetical protein MGG_03675 [Magnaporthe oryzae 70-15]	73.5	16.1	10.1	6.6	6.5	2.7
+MGG_03689	short chain dehydrogenase	3.9	22.3	0.9	1.9	0.0	0.0
+MGG_03706	integral membrane	2.0	0.0	11.0	6.6	47.6	15.5
+MGG_03764	salicylate hydroxylase	6.9	77.9	0.9	1.9	0.0	0.0
+MGG_03791	hypothetical protein MGG_03791 [Magnaporthe oryzae 70-15]	6.9	12.4	0.0	0.0	0.0	0.0
+MGG_03847	duf1445 domain [Phaeoacremonium minimum UCRPA7]	130.4	91.6	7.4	10.4	9.7	10.0
+MGG_03871	hypothetical protein MGG_03871 [Magnaporthe oryzae 70-15]	50.0	232.6	5.5	3.8	33.6	10.9
+MGG_03889	threonine synthase	17.6	120.0	19.3	10.4	10.8	9.1
+MGG_03893	pre-mRNA-splicing factor ATP-dependent RNA helicase prp43	5.9	7.4	29.4	35.0	26.0	24.6
+MGG_03945	acetolactate synthase	205.8	196.7	55.2	25.5	105.0	48.3
+MGG_04032	Ribosome biogenesis partial [Metarhizium majus ARSEF 297]	2.9	2.5	20.2	28.4	11.9	15.5
+MGG_04067	GTPase-activating GYP7	58.8	58.2	21.2	17.0	17.3	16.4
+MGG_04099	major facilitator superfamily transporter	164.7	96.5	4.6	4.7	19.5	18.2
+MGG_04105	plasma membrane proteolipid 3 [Magnaporthe oryzae 70-15]	606.7	7075.7	109.4	102.1	577.0	297.9
+MGG_04140	mitochondrial NADH dehydrogenase [Magnaporthe oryzae 70-15]	51.9	179.4	21.2	16.1	20.6	19.1
+MGG_04156	aminotransferase class I and II	373.4	431.8	123.2	136.1	105.0	119.4
+MGG_04197	cell lysis	80.4	231.4	48.7	38.8	33.6	40.1
+MGG_04201	U3 small nucleolar ribonucleo imp3	3.9	4.9	23.9	25.5	32.5	17.3
+MGG_04258	hypothetical protein MGG_04258 [Magnaporthe oryzae 70-15]	638.1	696.6	39.5	65.2	2.2	0.9
+MGG_04320	serine threonine- phosphatase 2A activator 1	26.5	84.1	14.7	12.3	10.8	10.0
+MGG_04378	integral membrane	16.7	179.4	2.8	0.9	4.3	1.8
+MGG_04407	cation efflux family [Magnaporthe oryzae 70-15]	7.8	53.2	2.8	2.8	5.4	4.6
+MGG_04441	[Trichoderma reesei QM6a]	20.6	95.3	1.8	1.9	6.5	2.7
+MGG_04470	nop14-like family [Phaeoacremonium minimum UCRPA7]	2.9	2.5	20.2	29.3	10.8	12.8
+MGG_04476	FK506-binding 4	42.1	26.0	157.3	123.8	122.3	70.2
+MGG_04513	SRm160 300 splicing coactivator [Coccidioides immitis RS]	35.3	74.2	15.6	19.9	19.5	21.9
+MGG_04556	alcohol dehydrogenase	135.3	121.2	23.0	32.1	52.0	21.9
+MGG_04565	tpr domain-containing	2.9	6.2	24.8	22.7	22.7	14.6
+MGG_04610	Alcohol O-acetyltransferase 1	10.8	56.9	3.7	2.8	3.2	9.1
+MGG_04621	Zinc finger CCCH domain-containing 45	15.7	233.8	1.8	0.9	1.1	3.6
+MGG_04631	terpene synthase metal binding domain-containing	9.8	86.6	7.4	7.6	0.0	0.9
+MGG_04641	transcription factor AATF Che-1	2.9	4.9	23.0	29.3	14.1	15.5
+MGG_04662	peroxisomal adenine nucleotide transporter 1	4.9	35.9	1.8	1.9	4.3	2.7
+MGG_04680	lipase 2	22.5	206.6	11.0	13.2	9.7	17.3
+MGG_04699	C2H2 finger domain-containing [Magnaporthe oryzae 70-15]	7.8	292.0	3.7	12.3	6.5	26.4
+MGG_04764	cystathionine gamma-synthase [Magnaporthe oryzae 70-15]	67.6	201.7	40.5	45.4	47.6	48.3
+MGG_04768	[Nectria haematococca mpVI 77-13-4]	189.2	405.8	46.9	31.2	75.8	34.6
+MGG_04802	periodic tryptophan 1 [Magnaporthe oryzae 70-15]	4.9	2.5	32.2	47.3	36.8	21.9
+MGG_04843	fungal specific transcription factor domain-containing	101.9	118.8	24.8	31.2	29.2	29.2
+MGG_04891	hypothetical protein MGG_04891 [Magnaporthe oryzae 70-15]	25.5	6.2	0.9	0.0	0.0	0.0
+MGG_04906	SAFF domain-containing	51.9	56.9	17.5	18.9	14.1	21.0
+MGG_04946	DUF1295 domain-containing [Neurospora crassa OR74A]	28.4	867.3	0.9	3.8	1.1	0.9
+MGG_04947	SEC14 cytosolic factor	38.2	322.9	32.2	56.7	16.2	26.4
+MGG_04973	carbonic anhydrase	60.8	123.7	15.6	31.2	16.2	19.1
+MGG_04975	zinc-binding oxidoreductase [Leptosphaeria maculans JN3]	19.6	129.9	5.5	13.2	14.1	20.0
+MGG_04995	bp28ct domain-containing	3.9	2.5	30.3	33.1	17.3	16.4
+MGG_04999	external nadh-ubiquinone oxidoreductase mitochondrial precursor [Phaeoacremonium minimum UCRPA7]	92.1	96.5	20.2	10.4	19.5	5.5
+MGG_05017	glutamyl-tRNA (Gln) amidotransferase [Exophiala dermatitidis NIH UT8656]	10.8	7.4	0.9	0.9	0.0	0.9
+MGG_05031	NADH dehydrogenase (ubiquinone) complex assembly factor 6	5.9	43.3	3.7	1.9	3.2	2.7
+MGG_05047	Nipped-B B	35.3	77.9	15.6	13.2	8.7	11.8
+MGG_05062	vacuolar membrane	62.7	413.2	13.8	35.0	61.7	72.0
+MGG_05080	Polycystic kidney disease 1-like 3	23.5	92.8	7.4	17.0	5.4	10.9
+MGG_05092	hypothetical protein MGG_05092 [Magnaporthe oryzae 70-15]	67.6	53.2	1143.1	1107.0	539.1	721.6
+MGG_05146	ribosomal RNA-processing 1	12.7	9.9	38.6	48.2	52.0	37.4
+MGG_05158	S-adenosylmethionine mitochondrial carrier	31.4	40.8	4.6	2.8	13.0	2.7
+MGG_05164	MSC1 [Sordaria macrospora k-hell]	25.5	416.9	0.9	1.9	2.2	2.7
+MGG_05211	Na(+) H(+) antiporter 2	28.4	138.6	29.4	17.0	17.3	18.2
+MGG_05228	hypothetical protein MGG_05228 [Magnaporthe oryzae 70-15]	14.7	33.4	2.8	2.8	5.4	2.7
+MGG_05232	carbohydrate-binding module family 52 [Myceliophthora thermophila ATCC 42464]	120.6	52.0	12.0	5.7	9.7	2.7
+MGG_05250	hypothetical protein MGG_05250 [Magnaporthe oryzae 70-15]	35.3	1175.4	3.7	5.7	4.3	7.3
+MGG_05335	Ribosome biogenesis ALB1	10.8	8.7	63.5	81.3	63.9	53.8
+MGG_05358	lyr family	34.3	120.0	12.0	27.4	13.0	23.7
+MGG_05364	glycosyl hydrolase family 61	239.1	258.6	923.3	1027.6	1617.3	1915.1
+MGG_05383	HHE domain-containing [Magnaporthe oryzae 70-15]	28.4	266.0	0.9	1.9	1.1	0.9
+MGG_05428	PX domain-containing	54.9	82.9	9.2	8.5	31.4	19.1
+MGG_05437	pua RNA binding domain-containing	109.8	366.2	15.6	11.3	54.1	14.6
+MGG_05507	cell surface [Colletotrichum gloeosporioides Nara gc5]	3.9	824.0	0.9	1.9	0.0	0.9
+MGG_05521	Phospholipase D p2 [Madurella mycetomatis]	8.8	86.6	3.7	4.7	4.3	9.1
+MGG_05608	hypothetical protein MGG_05608 [Magnaporthe oryzae 70-15]	42.1	39.6	160.9	98.3	101.8	79.3
+MGG_05644	calcium channel subunit cch1	16.7	16.1	30.3	81.3	52.0	88.4
+MGG_05677	glutathione S-transferase I	171.5	252.4	80.0	50.1	76.9	33.7
+MGG_05692	hypothetical protein MGG_05692 [Magnaporthe oryzae 70-15]	2.9	1.2	27.6	35.0	9.7	10.0
+MGG_05741	isochorismatase domain-containing 2 [Magnaporthe oryzae 70-15]	54.9	86.6	23.0	17.0	32.5	18.2
+MGG_05747	hypothetical protein MGG_05747 [Magnaporthe oryzae 70-15]	9.8	11.1	0.0	0.0	0.0	0.0
+MGG_05804	phospholipase D p1	47.0	471.4	18.4	13.2	9.7	6.4
+MGG_05893	hypothetical protein MGG_05893 [Magnaporthe oryzae 70-15]	18.6	1704.9	3.7	4.7	3.2	1.8
+MGG_05940	short chain dehydrogenase [Magnaporthe oryzae 70-15]	103.9	89.1	46.9	34.0	24.9	10.9
+MGG_05988	PAP2 superfamily	35.3	1309.0	1.8	2.8	1.1	1.8
+MGG_05993	DNA repair Sae2 [Metarhizium robertsii ARSEF 23]	11.8	60.6	7.4	5.7	5.4	9.1
+MGG_06000	UPF0591 membrane [Fusarium fujikuroi]	801.7	4763.4	29.4	31.2	54.1	46.5
+MGG_06052	hypothetical protein MGG_06052 [Magnaporthe oryzae 70-15]	11.8	21.0	2.8	1.9	3.2	1.8
+MGG_06053	Regulator of phospholipase D SRF1	19.6	59.4	6.4	4.7	7.6	6.4
+MGG_06062	nitrate reductase	120.6	87.8	12.9	5.7	29.2	6.4
+MGG_06088	glutathione-dependent formaldehyde-activating enzyme	373.4	952.7	156.3	205.1	86.6	89.3
+MGG_06097	mitochondrial import receptor subunit TOM20 [Fusarium fujikuroi]	14.7	19.8	60.7	52.9	57.4	44.6
+MGG_06144	hypothetical protein MGG_06144 [Magnaporthe oryzae 70-15]	26.5	65.6	5.5	2.8	1.1	0.9
+MGG_06227	[Trichoderma reesei QM6a]	4.9	330.3	0.9	0.9	0.0	0.0
+MGG_06242	ribosome biogenesis Kri1 [Magnaporthe oryzae 70-15]	6.9	11.1	37.7	55.8	33.6	32.8
+MGG_06261	eukaryotic translation initiation factor 3 135 kDa subunit [Gaeumannomyces graminis tritici R3-111a-1]	14.7	9.9	57.0	40.6	41.1	37.4
+MGG_06347	hypothetical protein OOU_Y34scaffold00095g33	3.9	295.7	2.8	1.9	8.7	4.6
+MGG_06392	ornithine aminotransferase	159.8	205.4	79.1	86.0	44.4	55.6
+MGG_06409	ph domain-containing [Phaeoacremonium minimum UCRPA7]	37.2	301.9	2.8	1.9	8.7	3.6
+MGG_06461	P-loop containing nucleoside triphosphate hydrolase [Glarea lozoyensis ATCC 20868]	16.7	92.8	8.3	9.5	7.6	15.5
+MGG_06473	c6 zinc finger domain-containing [Phaeoacremonium minimum UCRPA7]	15.7	35.9	4.6	3.8	1.1	1.8
+MGG_06489	alcohol dehydrogenase (nadp+)	8.8	193.0	0.9	0.9	2.2	0.9
+MGG_06492	transcriptional activator DAL81 [Magnaporthe oryzae 70-15]	20.6	35.9	8.3	10.4	6.5	7.3
+MGG_06493	glucan endo-1,3-beta-glucosidase A1	28.4	11.1	1.8	0.9	3.2	0.9
+MGG_06520	geranylgeranyl transferase type-2 subunit alpha	105.9	53.2	26.7	21.7	33.6	13.7
+MGG_06537	vacuolar sorting-associated 13	20.6	92.8	7.4	8.5	6.5	9.1
+MGG_06538	Bys1 family	83.3	30.9	10.1	3.8	1.1	0.0
+MGG_06590	acetyl- carboxylase	2.0	49.5	1.8	0.9	1.1	0.9
+MGG_06643	endothelin-converting enzyme	661.6	361.3	172.0	101.2	108.3	68.3
+MGG_06644	tartrate transporter [Magnaporthe oryzae 70-15]	61.7	44.5	16.6	10.4	15.2	6.4
+MGG_06653	extracellular serine-rich	211.7	123.7	830.4	818.7	621.4	605.9
+MGG_06661	MFS transporter	53.9	16.1	8.3	8.5	5.4	6.4
+MGG_06751	hypothetical protein MGG_06751 [Magnaporthe oryzae 70-15]	22.5	71.8	11.0	7.6	5.4	3.6
+MGG_06752	peptidase family M28 family	29.4	54.4	8.3	4.7	11.9	5.5
+MGG_06769	[Neurospora crassa]	7.8	85.4	1.8	2.8	10.8	5.5
+MGG_06782	N amino acid transport system	25.5	32.2	10.1	4.7	8.7	4.6
+MGG_06863	lea domain [Phaeoacremonium minimum UCRPA7]	18.6	172.0	0.9	0.0	0.0	0.9
+MGG_06865	[Chaetomium globosum CBS ]	99.0	2160.2	1.8	3.8	0.0	0.0
+MGG_06887	hypothetical protein MGG_06887 [Magnaporthe oryzae 70-15]	10.8	16.1	0.0	0.0	2.2	1.8
+MGG_06956	hypothetical protein MGG_06956 [Magnaporthe oryzae 70-15]	2.9	118.8	3.7	0.0	3.2	0.0
+MGG_07005	CFEM domain-containing	138.2	1524.3	12.9	9.5	9.7	6.4
+MGG_07008	nucleolar NOP58 [Fusarium fujikuroi]	30.4	34.6	135.2	113.4	150.5	86.6
+MGG_07099	dead box RNA helicase	8.8	4.9	62.5	26.5	77.9	31.0
+MGG_07136	nucleolar GTP-binding	19.6	27.2	87.4	113.4	141.8	101.1
+MGG_07157	MFS sugar transporter	2.9	39.6	0.9	0.0	1.1	0.0
+MGG_07161	pyruvate dehydrogenase kinase	34.3	79.2	13.7	18.0	15.2	17.3
+MGG_07171	hypothetical protein MGG_07171	66.6	55.7	12.9	8.5	34.6	13.7
+MGG_07173	hpt domain-containing	24.5	45.8	2.8	1.9	1.1	0.9
+MGG_07211	meiotically up-regulated 65	12.7	186.8	2.8	1.9	3.2	2.7
+MGG_07212	calcofluor white hypersensitive	788.0	5171.6	32.2	24.6	80.1	17.3
+MGG_07237	rpel repeat	190.1	418.2	71.7	77.5	49.8	44.6
+MGG_07278	hypothetical protein MGG_07278	14.7	33.4	3.7	5.7	4.3	4.6
+MGG_07289	glycogen synthase	82.3	245.0	41.4	52.0	23.8	41.0
+MGG_07328	Plasma membrane proteolipid 3	79.4	115.1	17.5	12.3	15.2	12.8
+MGG_07334	hypothetical protein MGG_07334	39.2	55.7	18.4	19.9	5.4	9.1
+MGG_07341	Cardiolipin synthase	179.4	638.4	28.5	28.4	48.7	49.2
+MGG_07369	Fungal specific transcription factor domain-containing	101.0	987.3	1.8	1.9	4.3	1.8
+MGG_07419	tyrosinase central domain containing	5.9	2.5	241.9	139.0	14.1	21.0
+MGG_07443	oxidoreductase BLI-4	21.6	65.6	2.8	2.8	4.3	2.7
+MGG_07446	hypothetical protein MGG_07446	3.9	37.1	2.8	1.9	1.1	0.9
+MGG_07449	ribosome biogenesis Nop16	3.9	8.7	24.8	32.1	22.7	27.3
+MGG_07455	sorbitol utilization SOU2	86.3	314.3	50.6	41.6	24.9	33.7
+MGG_07465	periodic tryptophan 2	11.8	11.1	47.8	48.2	92.0	42.8
+MGG_07470	alkaline phosphatase family	49.0	184.3	24.8	29.3	21.7	21.9
+MGG_07476	hypothetical protein MGG_07476	7.8	87.8	0.0	0.0	1.1	0.9
+MGG_07482	FK506 suppressor Sfk1	12.7	122.5	1.8	0.9	2.2	0.0
+MGG_07524	low-temperature viability ltv1	4.9	14.8	34.9	50.1	42.2	34.6
+MGG_07529	60S ribosomal subunit assembly export LOC1	6.9	13.6	43.2	63.3	67.1	28.2
+MGG_07545	CTP synthase	31.4	23.5	94.7	111.6	69.3	63.8
+MGG_07558	hypothetical protein MGG_07558	62.7	24.7	7.4	1.9	0.0	0.0
+MGG_07599	hypothetical protein MGG_07599	51.9	243.7	6.4	6.6	5.4	5.5
+MGG_07630	hypothetical protein MGG_07630	103.9	87.8	531.5	395.2	1235.2	902.0
+MGG_07631	fungal cellulose binding domain-containing	15.7	12.4	69.0	57.7	217.6	256.9
+MGG_07660	phosphatase regulator	219.5	146.0	23.0	20.8	29.2	22.8
+MGG_07676	chitin binding	1.0	0.0	11.0	10.4	100.7	82.9
+MGG_07728	DNA polymerase V	5.9	3.7	24.8	35.9	34.6	31.9
+MGG_07872	hypothetical protein MGG_07872	10.8	8.7	1.8	0.9	0.0	0.9
+MGG_07877	dipeptidyl-peptidase V	399.9	261.1	127.8	69.0	22.7	18.2
+MGG_07910	dienelactone hydrolase family	54.9	100.2	19.3	18.0	23.8	23.7
+MGG_07930	hypothetical protein MGG_07930	101.0	2689.7	8.3	9.5	6.5	8.2
+MGG_07961	DUF636 domain-containing	36.3	99.0	0.0	1.9	0.0	0.0
+MGG_07975	hypothetical protein MGG_07975	1240.8	1359.7	103.9	120.1	417.9	391.8
+MGG_07985	NACHT domain-containing	7.8	8.7	0.0	0.0	0.0	0.0
+MGG_08005	dual specificity phosphatase	26.5	80.4	14.7	13.2	15.2	16.4
+MGG_08007	Alpha beta hydrolase fold-1	16.7	32.2	3.7	3.8	3.2	2.7
+MGG_08026	hypothetical protein MGG_08026	38.2	106.4	0.9	0.9	1.1	0.9
+MGG_08039	hypothetical protein MGG_08039	2.0	14.8	0.0	0.0	0.0	0.0
+MGG_08055	marvel domain-containing	124.5	1245.9	12.9	8.5	17.3	10.9
+MGG_08059	hypothetical protein MGG_08059	67.6	1671.5	31.3	18.0	69.3	30.1
+MGG_08118	bzip transcription factor [Phaeoacremonium minimum UCRPA7]	2.9	0.0	20.2	26.5	13.0	17.3
+MGG_08175	PQ loop repeat	11.8	12.4	41.4	41.6	34.6	43.7
+MGG_08201	glutathione-dependent formaldehyde-activating enzyme	144.1	167.0	27.6	27.4	29.2	20.0
+MGG_08212	BZIP transcription factor	23.5	158.4	8.3	10.4	11.9	16.4
+MGG_08253	hypothetical protein MGG_08253	219.5	141.0	4.6	3.8	0.0	0.0
+MGG_08262	putidaredoxin reductase	39.2	77.9	14.7	8.5	11.9	10.0
+MGG_08299	fad-binding domain-containing	14.7	92.8	3.7	2.8	5.4	5.5
+MGG_08300	Small secreted	398.9	258.6	832.3	698.6	1201.6	666.0
+MGG_08311	2OG-Fe(II)oxygenase superfamily	62.7	50.7	25.7	18.0	20.6	16.4
+MGG_08333	hypothetical protein MGG_08333	35.3	44.5	14.7	10.4	3.2	3.6
+MGG_08426	amino acid transporter	11.8	279.6	11.0	15.1	22.7	27.3
+
